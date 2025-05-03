@@ -1,0 +1,25 @@
+generations:
+  - name: "First Generation (as Grand Caravan)"
+    start_year: 1987
+    end_year: 1990
+    description: "The original Dodge Grand Caravan was introduced as an extended wheelbase version of the revolutionary Caravan minivan. Built on Chrysler's S platform, it offered additional cargo space behind the third row of seats compared to the standard Caravan. Powered by various four-cylinder and V6 engines, including a 2.5L inline-four and 3.0L Mitsubishi V6, it provided versatile family transportation with car-like handling. The interior featured flexible seating for seven passengers and numerous storage compartments. This generation established the Grand Caravan as the more practical choice for larger families within Chrysler's minivan lineup, which had created the modern minivan segment in 1984."
+
+  - name: "Second Generation"
+    start_year: 1991
+    end_year: 1995
+    description: "The redesigned Grand Caravan featured more aerodynamic styling while maintaining the practical, boxy profile necessary for maximum interior space. Built on an updated version of the S platform, it offered improved powertrains including the new 3.3L V6 engine. Interior enhancements included available anti-lock brakes, driver's side airbag, and improved seating comfort. This generation introduced integrated child safety seats as an innovative feature for family buyers. The second-generation Grand Caravan refined the successful formula of its predecessor, maintaining Chrysler's leadership in the increasingly competitive minivan segment."
+
+  - name: "Third Generation"
+    start_year: 1996
+    end_year: 2000
+    description: "The third-generation Grand Caravan featured more streamlined styling and substantial mechanical improvements. Based on the new NS platform, it introduced dual sliding doors—a significant innovation that was quickly adopted by competitors. Engine options included a 3.0L V6, 3.3L V6, and the new 3.8L V6, all paired with a four-speed automatic transmission. The interior offered improved ergonomics, dual front airbags, and available features like quad seating and a removable driver-side console. This generation maintained Chrysler's innovation in the minivan segment and continued the Grand Caravan's strong sales performance."
+
+  - name: "Fourth Generation"
+    start_year: 2001
+    end_year: 2007
+    description: "The fourth-generation Grand Caravan introduced power sliding doors and the innovative Stow 'n Go seating system (from 2005), which allowed the second and third-row seats to fold flat into the floor. Built on the updated RS platform, it offered refined powertrains including a 3.3L V6 and 3.8L V6. The interior featured improved materials and available features such as a DVD entertainment system, three-zone climate control, and power windows in the sliding doors. Despite increasing competition, this generation maintained the Grand Caravan's position as a value leader in the minivan segment with class-leading versatility thanks to its unique seating system."
+
+  - name: "Fifth Generation"
+    start_year: 2008
+    end_year: 2020
+    description: "The final Grand Caravan generation featured more squared-off styling with a focus on interior space and flexibility. The Stow 'n Go system was enhanced with easier operation and more comfortable seats, while a new Swivel 'n Go option briefly offered second-row seats that could face the third row. Initially offered with multiple engine options, the powertrain was eventually standardized to the 3.6L Pentastar V6 producing 283 HP, paired with a six-speed automatic transmission. Despite minimal updates over its extended production run, the fifth-generation Grand Caravan remained popular due to its combination of features, space, and value pricing. After the more upscale Chrysler Town & Country was replaced by the Pacifica in 2017, the Grand Caravan continued as a budget-friendly alternative until its discontinuation in 2020, marking the end of the nameplate after more than 35 years."

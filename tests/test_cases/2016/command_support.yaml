@@ -1,4 +1,9 @@
-model_year: 2012
+model_year: 2016
+supported_commands_by_ecu:
+  "7E0":
+  - 7E0.010D:VSS
+  - 7E0.012F:FLI
+  - 7E0.0131:CLR_DIST
 unsupported_commands_by_ecu:
   "6B4":
   - 6B4.694.22D410:DODGE_HVBAT_SOC
@@ -10,7 +15,6 @@ unsupported_commands_by_ecu:
   - 740.4C0.22A0F3|fc=1:DODGE_TP_RR,DODGE_TT_RR
   - 740.4C0.22A0F4|fc=1:DODGE_TP_RL,DODGE_TT_RL
   "742":
-  - 742.22A022
   - 742.4C2.22A077|fc=1:DODGE_TP_FL_V3,DODGE_TP_FR_V3,DODGE_TP_RL_V3,DODGE_TP_RR_V3
   "763":
   - 763.4E3.22032D|fc=1:DODGE_HIGHBEAMS_MODE,DODGE_HIGHBEAMS_ON,DODGE_REAR_WIPER

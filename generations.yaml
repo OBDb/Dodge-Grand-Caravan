@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Dodge_Caravan"
+
 generations:
   - name: "First Generation (as Grand Caravan)"
     start_year: 1987
@@ -21,5 +24,10 @@ generations:
 
   - name: "Fifth Generation"
     start_year: 2008
+    end_year: 2010
+    description: "The final Grand Caravan generation was introduced with more squared-off styling and focus on interior space and flexibility. Built on the RT platform, the initial generation featured the enhanced Stow 'n Go seating system with easier operation and more comfortable seats. Engine options included the 3.3L V6, 3.8L V6, and 4.0L V6. The interior featured flexible seating configurations designed for maximum versatility."
+
+  - name: "Fifth Generation (2011 Facelift)"
+    start_year: 2011
     end_year: 2020
-    description: "The final Grand Caravan generation featured more squared-off styling with a focus on interior space and flexibility. The Stow 'n Go system was enhanced with easier operation and more comfortable seats, while a new Swivel 'n Go option briefly offered second-row seats that could face the third row. Initially offered with multiple engine options, the powertrain was eventually standardized to the 3.6L Pentastar V6 producing 283 HP, paired with a six-speed automatic transmission. Despite minimal updates over its extended production run, the fifth-generation Grand Caravan remained popular due to its combination of features, space, and value pricing. After the more upscale Chrysler Town & Country was replaced by the Pacifica in 2017, the Grand Caravan continued as a budget-friendly alternative until its discontinuation in 2020, marking the end of the nameplate after more than 35 years."
+    description: "The fifth-generation Grand Caravan underwent a mid-cycle refresh for the 2011 model year with significant changes in styling and functionality. The suspension was heavily re-tuned with a larger front sway bar, new rear sway bar, increased rear roll center height, adjusted spring rates, and a new steering gear that improved handling. Visual updates included new halogen projector headlamps with LED accents. The interior received major refreshments with new seats, softer-touch surfaces, extra sound insulation, acoustic glass, and new LED ambient lighting and center console. The powertrain was eventually standardized to the 3.6L Pentastar V6 producing 283 HP paired with a six-speed automatic transmission. The upgraded Super Stow 'n Go seating system featured new pivoting head restraints and revised folding mechanisms. After the Chrysler Town & Country was replaced by the Pacifica in 2017, the Grand Caravan continued as the budget-friendly minivan alternative until its final discontinuation on August 21, 2020."

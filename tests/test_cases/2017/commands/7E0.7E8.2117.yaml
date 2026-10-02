@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2117
+test_cases:
+- expected_values:
+    DODGE_LINE_P: 0
+    DODGE_LINE_P_DUTY: 5.08092
+  response: 7E80761170D00001887
+- expected_values:
+    DODGE_LINE_P: 111
+    DODGE_LINE_P_DUTY: 5.08092
+  response: 7E80761170D006F1887
+- expected_values:
+    DODGE_LINE_P: 120
+    DODGE_LINE_P_DUTY: 5.08092
+  response: 7E80761170D00787087
+- expected_values:
+    DODGE_LINE_P: 121
+    DODGE_LINE_P_DUTY: 5.08092
+  response: 7E80761170D00797187
+- expected_values:
+    DODGE_LINE_P: 122
+    DODGE_LINE_P_DUTY: 5.08092
+  response: 7E80761170D007A7287
+- expected_values:
+    DODGE_LINE_P: 124
+    DODGE_LINE_P_DUTY: 5.08092
+  response: 7E80761170D007C7487

@@ -1,5 +1,6 @@
 command_id: 7E0.7E8.22043B
 test_cases:
 - expected_values:
-    DODGE_ODO: 153722.88
+    DODGE_ODO_V2: 153722.88
+    DODGE_PCM_ODO: 153722.88
   response: 7E80562043B494D

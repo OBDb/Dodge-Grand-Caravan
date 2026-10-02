@@ -16,3 +16,7 @@ test_cases:
     DODGE_ODO_V2: 179421.184
     DODGE_PCM_ODO: 179421.184
   response: 7E80562043B558E
+- expected_values:
+    DODGE_ODO_V2: 179937.28
+    DODGE_PCM_ODO: 179937.28
+  response: 7E80562043B55CD

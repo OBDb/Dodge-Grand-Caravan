@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2201A9
+test_cases:
+- expected_values:
+    DODGE_KNOCK_SENS_1: 0
+  response: 7E8056201A90000
+- expected_values:
+    DODGE_KNOCK_SENS_1: 0.45899
+  response: 7E8056201A91780
+- expected_values:
+    DODGE_KNOCK_SENS_1: 0.48341
+  response: 7E8056201A918C0
+- expected_values:
+    DODGE_KNOCK_SENS_1: 0.48829
+  response: 7E8056201A91900
+- expected_values:
+    DODGE_KNOCK_SENS_1: 0.50782
+  response: 7E8056201A91A00
+- expected_values:
+    DODGE_KNOCK_SENS_1: 0.53223
+  response: 7E8056201A91B40
+- expected_values:
+    DODGE_KNOCK_SENS_1: 0.54688
+  response: 7E8056201A91C00
+- expected_values:
+    DODGE_KNOCK_SENS_1: 0.5713
+  response: 7E8056201A91D40
+- expected_values:
+    DODGE_KNOCK_SENS_1: 0.62989
+  response: 7E8056201A92040
+- expected_values:
+    DODGE_KNOCK_SENS_1: 0.81056
+  response: 7E8056201A92980

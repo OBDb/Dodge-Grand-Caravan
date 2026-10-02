@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22114B
+test_cases:
+- expected_values:
+    DODGE_ACCEL_PEDAL_POS: 8.23529
+  response: 7E80462114B15

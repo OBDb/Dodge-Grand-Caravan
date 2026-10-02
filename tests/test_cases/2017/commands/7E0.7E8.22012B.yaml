@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22012B
+test_cases:
+- expected_values:
+    DODGE_CAT_MODEL_T: 64
+  response: 7E80562012B0040
+- expected_values:
+    DODGE_CAT_MODEL_T: 586
+  response: 7E80562012B024A
+- expected_values:
+    DODGE_CAT_MODEL_T: 590
+  response: 7E80562012B024E
+- expected_values:
+    DODGE_CAT_MODEL_T: 591
+  response: 7E80562012B024F
+- expected_values:
+    DODGE_CAT_MODEL_T: 593
+  response: 7E80562012B0251
+- expected_values:
+    DODGE_CAT_MODEL_T: 594
+  response: 7E80562012B0252
+- expected_values:
+    DODGE_CAT_MODEL_T: 595
+  response: 7E80562012B0253

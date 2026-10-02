@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22040F
 test_cases:
 - expected_values:
-    DODGE_FLI_7E0: 24.4584
-  response: 7E80562040F002B
+    DODGE_FLI_7E0: 0
+  response: 7E80562040F0000
+- expected_values:
+    DODGE_FLI_7E0: 98.4024
+  response: 7E80562040F00AD

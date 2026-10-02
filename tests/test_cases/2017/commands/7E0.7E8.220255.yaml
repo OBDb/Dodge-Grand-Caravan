@@ -4,29 +4,8 @@ test_cases:
     DODGE_FUEL_MASS_CYL_1: 0
   response: '7E8056202550000'
 - expected_values:
-    DODGE_FUEL_MASS_CYL_1: 8.85938
-  response: '7E8056202550237'
+    DODGE_FUEL_MASS_CYL_1: 11.96875
+  response: 7E80562025502FE
 - expected_values:
-    DODGE_FUEL_MASS_CYL_1: 9.0625
-  response: '7E8056202550244'
-- expected_values:
-    DODGE_FUEL_MASS_CYL_1: 9.17188
-  response: 7E805620255024B
-- expected_values:
-    DODGE_FUEL_MASS_CYL_1: 10.4375
-  response: 7E805620255029C
-- expected_values:
-    DODGE_FUEL_MASS_CYL_1: 10.8125
-  response: 7E80562025502B4
-- expected_values:
-    DODGE_FUEL_MASS_CYL_1: 10.82812
-  response: 7E80562025502B5
-- expected_values:
-    DODGE_FUEL_MASS_CYL_1: 10.92188
-  response: 7E80562025502BB
-- expected_values:
-    DODGE_FUEL_MASS_CYL_1: 11
-  response: 7E80562025502C0
-- expected_values:
-    DODGE_FUEL_MASS_CYL_1: 12.96875
-  response: 7E805620255033E
+    DODGE_FUEL_MASS_CYL_1: 44.57812
+  response: 7E8056202550B25

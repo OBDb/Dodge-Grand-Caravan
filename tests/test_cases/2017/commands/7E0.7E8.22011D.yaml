@@ -1,20 +1,8 @@
 command_id: 7E0.7E8.22011D
 test_cases:
 - expected_values:
-    DODGE_ECT: 95
-  response: 7E80462011D9F
+    DODGE_ECT: 91
+  response: 7E80462011D9B
 - expected_values:
-    DODGE_ECT: 96
-  response: 7E80462011DA0
-- expected_values:
-    DODGE_ECT: 97
-  response: 7E80462011DA1
-- expected_values:
-    DODGE_ECT: 98
-  response: 7E80462011DA2
-- expected_values:
-    DODGE_ECT: 99
-  response: 7E80462011DA3
-- expected_values:
-    DODGE_ECT: 100
-  response: 7E80462011DA4
+    DODGE_ECT: 104
+  response: 7E80462011DA8

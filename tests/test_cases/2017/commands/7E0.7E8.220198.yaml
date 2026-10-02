@@ -4,5 +4,14 @@ test_cases:
     DODGE_ENG_TEMEPRATURE: -273
   response: '7E8056201980000'
 - expected_values:
+    DODGE_ENG_TEMEPRATURE: -272.94
+  response: '7E8056201980002'
+- expected_values:
+    DODGE_ENG_TEMEPRATURE: -271.34
+  response: '7E8056201980012'
+- expected_values:
+    DODGE_ENG_TEMEPRATURE: 546.26
+  response: '7E8056201982002'
+- expected_values:
     DODGE_ENG_TEMEPRATURE: 547.86
   response: '7E8056201982012'

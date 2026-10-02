@@ -1,29 +1,8 @@
 command_id: 7E0.7E8.2201FF
 test_cases:
 - expected_values:
-    DODGE_IAT_01FF: 32
-  response: 7E8056201FF0060
+    DODGE_IAT_01FF: 25
+  response: 7E8056201FF0059
 - expected_values:
-    DODGE_IAT_01FF: 33
-  response: 7E8056201FF0061
-- expected_values:
-    DODGE_IAT_01FF: 34
-  response: 7E8056201FF0062
-- expected_values:
-    DODGE_IAT_01FF: 35
-  response: 7E8056201FF0063
-- expected_values:
-    DODGE_IAT_01FF: 36
-  response: 7E8056201FF0064
-- expected_values:
-    DODGE_IAT_01FF: 37
-  response: 7E8056201FF0065
-- expected_values:
-    DODGE_IAT_01FF: 39
-  response: 7E8056201FF0067
-- expected_values:
-    DODGE_IAT_01FF: 42
-  response: 7E8056201FF006A
-- expected_values:
-    DODGE_IAT_01FF: 43
-  response: 7E8056201FF006B
+    DODGE_IAT_01FF: 55
+  response: 7E8056201FF0077

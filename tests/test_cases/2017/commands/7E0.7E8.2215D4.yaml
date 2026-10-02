@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     DODGE_LOW_T_CHG_AIR_CLT: 0
   response: 7E8056215D40000
+- expected_values:
+    DODGE_LOW_T_CHG_AIR_CLT: 0
+  response: |-
+    7E8056215D40000
+    7E8056215D40000

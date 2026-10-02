@@ -5,38 +5,10 @@ test_cases:
     DODGE_INJ_WIDTH_CYL_3: 0
   response: '7E80762023600000000'
 - expected_values:
-    DODGE_INJ_CYL_3: 1480
-    DODGE_INJ_WIDTH_CYL_3: 1.48
-  response: 7E807620236000005C8
+    DODGE_INJ_CYL_3: 2296
+    DODGE_INJ_WIDTH_CYL_3: 2.296
+  response: 7E807620236000008F8
 - expected_values:
-    DODGE_INJ_CYL_3: 1584
-    DODGE_INJ_WIDTH_CYL_3: 1.584
-  response: '7E80762023600000630'
-- expected_values:
-    DODGE_INJ_CYL_3: 1640
-    DODGE_INJ_WIDTH_CYL_3: 1.64
-  response: '7E80762023600000668'
-- expected_values:
-    DODGE_INJ_CYL_3: 1656
-    DODGE_INJ_WIDTH_CYL_3: 1.656
-  response: '7E80762023600000678'
-- expected_values:
-    DODGE_INJ_CYL_3: 1904
-    DODGE_INJ_WIDTH_CYL_3: 1.904
-  response: '7E80762023600000770'
-- expected_values:
-    DODGE_INJ_CYL_3: 1928
-    DODGE_INJ_WIDTH_CYL_3: 1.928
-  response: '7E80762023600000788'
-- expected_values:
-    DODGE_INJ_CYL_3: 2064
-    DODGE_INJ_WIDTH_CYL_3: 2.064
-  response: '7E80762023600000810'
-- expected_values:
-    DODGE_INJ_CYL_3: 2128
-    DODGE_INJ_WIDTH_CYL_3: 2.128
-  response: '7E80762023600000850'
-- expected_values:
-    DODGE_INJ_CYL_3: 2224
-    DODGE_INJ_WIDTH_CYL_3: 2.224
-  response: 7E807620236000008B0
+    DODGE_INJ_CYL_3: 9544
+    DODGE_INJ_WIDTH_CYL_3: 9.544
+  response: '7E80762023600002548'

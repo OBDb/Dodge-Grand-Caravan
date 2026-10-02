@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     DODGE_TQ_CONV_LOCK: 0
   response: 7E80562B09B0001
+- expected_values:
+    DODGE_TQ_CONV_LOCK: 0
+  response: 7E80562B09B0002
+- expected_values:
+    DODGE_TQ_CONV_LOCK: 0
+  response: 7E80562B09B0004
+- expected_values:
+    DODGE_TQ_CONV_LOCK: 0
+  response: 7E80562B09B0008

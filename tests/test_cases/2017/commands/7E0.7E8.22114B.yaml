@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     DODGE_ACCEL_PEDAL_POS: 8.23529
   response: 7E80462114B15
+- expected_values:
+    DODGE_ACCEL_PEDAL_POS: 31.76471
+  response: 7E80462114B51

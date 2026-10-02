@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221247
+test_cases:
+- expected_values:
+    DODGE_THROTTLE_INLET_P: 97.98125
+  response: 7E8056212473D3D
+- expected_values:
+    DODGE_THROTTLE_INLET_P: 97.9875
+  response: 7E8056212473D3E
+- expected_values:
+    DODGE_THROTTLE_INLET_P: 98.7875
+  response: 7E8056212473DBE
+- expected_values:
+    DODGE_THROTTLE_INLET_P: 98.8125
+  response: 7E8056212473DC2
+- expected_values:
+    DODGE_THROTTLE_INLET_P: 98.84375
+  response: 7E8056212473DC7

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220198
+test_cases:
+- expected_values:
+    DODGE_ENG_TEMEPRATURE: -273
+  response: '7E8056201980000'
+- expected_values:
+    DODGE_ENG_TEMEPRATURE: 547.86
+  response: '7E8056201982012'

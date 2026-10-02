@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22069F
+test_cases:
+- expected_values:
+    DODGE_VARIABLE_VLV_TIM_OIL_T: 64
+  response: 7E80462069F80
+- expected_values:
+    DODGE_VARIABLE_VLV_TIM_OIL_T: 67
+  response: 7E80462069F83
+- expected_values:
+    DODGE_VARIABLE_VLV_TIM_OIL_T: 69
+  response: 7E80462069F85
+- expected_values:
+    DODGE_VARIABLE_VLV_TIM_OIL_T: 73
+  response: 7E80462069F89
+- expected_values:
+    DODGE_VARIABLE_VLV_TIM_OIL_T: 75
+  response: 7E80462069F8B
+- expected_values:
+    DODGE_VARIABLE_VLV_TIM_OIL_T: 77
+  response: 7E80462069F8D
+- expected_values:
+    DODGE_VARIABLE_VLV_TIM_OIL_T: 78
+  response: 7E80462069F8E
+- expected_values:
+    DODGE_VARIABLE_VLV_TIM_OIL_T: 79
+  response: 7E80462069F8F
+- expected_values:
+    DODGE_VARIABLE_VLV_TIM_OIL_T: 81
+  response: 7E80462069F91

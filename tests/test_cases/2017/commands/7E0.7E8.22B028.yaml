@@ -1,0 +1,34 @@
+command_id: 7E0.7E8.22B028
+test_cases:
+- expected_values:
+    DODGE_TQ_CONV_SLIP: 0
+    DODGE_TQ_CONV_SLIP_VAR_1: 0
+  response: 7E80562B0280000
+- expected_values:
+    DODGE_TQ_CONV_SLIP: 28
+    DODGE_TQ_CONV_SLIP_VAR_1: 0.39375
+  response: 7E80562B028001C
+- expected_values:
+    DODGE_TQ_CONV_SLIP: 31
+    DODGE_TQ_CONV_SLIP_VAR_1: 0.43594
+  response: 7E80562B028001F
+- expected_values:
+    DODGE_TQ_CONV_SLIP: 33
+    DODGE_TQ_CONV_SLIP_VAR_1: 0.46406
+  response: 7E80562B0280021
+- expected_values:
+    DODGE_TQ_CONV_SLIP: 38
+    DODGE_TQ_CONV_SLIP_VAR_1: 0.53438
+  response: 7E80562B0280026
+- expected_values:
+    DODGE_TQ_CONV_SLIP: 40
+    DODGE_TQ_CONV_SLIP_VAR_1: 0.5625
+  response: 7E80562B0280028
+- expected_values:
+    DODGE_TQ_CONV_SLIP: 42
+    DODGE_TQ_CONV_SLIP_VAR_1: 0.59062
+  response: 7E80562B028002A
+- expected_values:
+    DODGE_TQ_CONV_SLIP: 46
+    DODGE_TQ_CONV_SLIP_VAR_1: 0.64688
+  response: 7E80562B028002E

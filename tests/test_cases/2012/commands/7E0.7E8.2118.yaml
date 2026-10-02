@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2118
+test_cases:
+- expected_values:
+    DODGE_ATF_T_V_2: 149.07812
+  response: '7E8056118254504'
+- expected_values:
+    DODGE_ATF_T_V_2: 149.26562
+  response: '7E8056118255104'
+- expected_values:
+    DODGE_ATF_T_V_2: 149.45312
+  response: 7E8056118255D04
+- expected_values:
+    DODGE_ATF_T_V_2: 149.64062
+  response: '7E8056118256904'
+- expected_values:
+    DODGE_ATF_T_V_2: 149.84375
+  response: '7E8056118257604'
+- expected_values:
+    DODGE_ATF_T_V_2: 150.03125
+  response: '7E8056118258204'
+- expected_values:
+    DODGE_ATF_T_V_2: 150.40625
+  response: 7E8056118259A04
+- expected_values:
+    DODGE_ATF_T_V_2: 150.60938
+  response: 7E805611825A704
+- expected_values:
+    DODGE_ATF_T_V_2: 151.375
+  response: 7E805611825D804
+- expected_values:
+    DODGE_ATF_T_V_2: 1021
+  response: 7E8056118FF4004

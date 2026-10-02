@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2118
+test_cases:
+- expected_values:
+    DODGE_ATF_T_V_2: 56.84375
+  response: 7E80561180E3682
+- expected_values:
+    DODGE_ATF_T_V_2: 57.42188
+  response: 7E80561180E5B82
+- expected_values:
+    DODGE_ATF_T_V_2: 64.1875
+  response: 7E8056118100C82

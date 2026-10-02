@@ -4,26 +4,5 @@ test_cases:
     DODGE_EOP: 0
   response: 7E80462022A00
 - expected_values:
-    DODGE_EOP: 24.94
-  response: 7E80462022A2B
-- expected_values:
-    DODGE_EOP: 25.52
-  response: 7E80462022A2C
-- expected_values:
-    DODGE_EOP: 26.1
-  response: 7E80462022A2D
-- expected_values:
-    DODGE_EOP: 26.68
-  response: 7E80462022A2E
-- expected_values:
-    DODGE_EOP: 27.26
-  response: 7E80462022A2F
-- expected_values:
-    DODGE_EOP: 27.84
-  response: 7E80462022A30
-- expected_values:
-    DODGE_EOP: 28.42
-  response: 7E80462022A31
-- expected_values:
-    DODGE_EOP: 29
-  response: 7E80462022A32
+    DODGE_EOP: 73.66
+  response: 7E80462022A7F

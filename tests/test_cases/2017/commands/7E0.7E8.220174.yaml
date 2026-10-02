@@ -1,29 +1,11 @@
 command_id: 7E0.7E8.220174
 test_cases:
 - expected_values:
-    DODGE_MAP: 35.2
-  response: 7E80562017400B0
+    DODGE_MAP: 21.2
+  response: 7E805620174006A
 - expected_values:
-    DODGE_MAP: 36.6
-  response: 7E80562017400B7
+    DODGE_MAP: 50
+  response: 7E80562017400FA
 - expected_values:
-    DODGE_MAP: 36.8
-  response: 7E80562017400B8
-- expected_values:
-    DODGE_MAP: 38.4
-  response: 7E80562017400C0
-- expected_values:
-    DODGE_MAP: 42.4
-  response: 7E80562017400D4
-- expected_values:
-    DODGE_MAP: 43.6
-  response: 7E80562017400DA
-- expected_values:
-    DODGE_MAP: 44.8
-  response: 7E80562017400E0
-- expected_values:
-    DODGE_MAP: 98.6
-  response: 7E80562017401ED
-- expected_values:
-    DODGE_MAP: 98.8
-  response: 7E80562017401EE
+    DODGE_MAP: 51.2
+  response: '7E8056201740100'

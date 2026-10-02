@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220329
 test_cases:
 - expected_values:
-    DODGE_AC_HIGH_SIDE_P: 756
-  response: '7E80462032936'
+    DODGE_AC_HIGH_SIDE_P: 504
+  response: '7E80462032924'
 - expected_values:
-    DODGE_AC_HIGH_SIDE_P: 1484
-  response: 7E8046203296A
+    DODGE_AC_HIGH_SIDE_P: 1736
+  response: 7E8046203297C

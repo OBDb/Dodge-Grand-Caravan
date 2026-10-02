@@ -4,6 +4,9 @@ test_cases:
     DODGE_DPF_SIM_MASS: 0
   response: 7E8056201E20000
 - expected_values:
+    DODGE_DPF_SIM_MASS: 0.01
+  response: 7E8056201E20001
+- expected_values:
     DODGE_DPF_SIM_MASS: 0.02
   response: 7E8056201E20002
 - expected_values:

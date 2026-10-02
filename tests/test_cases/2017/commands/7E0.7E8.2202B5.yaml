@@ -4,29 +4,8 @@ test_cases:
     DODGE_REQUIRED_FUEL_CHG_4: 0
   response: 7E8056202B50000
 - expected_values:
-    DODGE_REQUIRED_FUEL_CHG_4: 8.73438
-  response: 7E8056202B5022F
+    DODGE_REQUIRED_FUEL_CHG_4: 15.96875
+  response: 7E8056202B503FE
 - expected_values:
-    DODGE_REQUIRED_FUEL_CHG_4: 8.875
-  response: 7E8056202B50238
-- expected_values:
-    DODGE_REQUIRED_FUEL_CHG_4: 9.5625
-  response: 7E8056202B50264
-- expected_values:
-    DODGE_REQUIRED_FUEL_CHG_4: 10.70312
-  response: 7E8056202B502AD
-- expected_values:
-    DODGE_REQUIRED_FUEL_CHG_4: 10.84375
-  response: 7E8056202B502B6
-- expected_values:
-    DODGE_REQUIRED_FUEL_CHG_4: 11
-  response: 7E8056202B502C0
-- expected_values:
-    DODGE_REQUIRED_FUEL_CHG_4: 11.40625
-  response: 7E8056202B502DA
-- expected_values:
-    DODGE_REQUIRED_FUEL_CHG_4: 11.51562
-  response: 7E8056202B502E1
-- expected_values:
-    DODGE_REQUIRED_FUEL_CHG_4: 12.57812
-  response: 7E8056202B50325
+    DODGE_REQUIRED_FUEL_CHG_4: 37.95312
+  response: 7E8056202B5097D

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220944
 test_cases:
 - expected_values:
-    DODGE_BRAKE_BOOSTER_P: 65.8
-  response: 7E80562094419B4
+    DODGE_BRAKE_BOOSTER_P: 47.65
+  response: 7E805620944129D
 - expected_values:
-    DODGE_BRAKE_BOOSTER_P: 66.35
-  response: 7E80562094419EB
+    DODGE_BRAKE_BOOSTER_P: 69.1
+  response: 7E8056209441AFE
 - expected_values:
-    DODGE_BRAKE_BOOSTER_P: 66.9
-  response: 7E8056209441A22
+    DODGE_BRAKE_BOOSTER_P: 76.8
+  response: 7E8056209441E00

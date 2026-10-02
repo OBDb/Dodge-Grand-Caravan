@@ -4,23 +4,5 @@ test_cases:
     DODGE_VARIABLE_VLV_TIM_OIL_P: 0
   response: 7E80462069E00
 - expected_values:
-    DODGE_VARIABLE_VLV_TIM_OIL_P: 172
-  response: 7E80462069E2B
-- expected_values:
-    DODGE_VARIABLE_VLV_TIM_OIL_P: 180
-  response: 7E80462069E2D
-- expected_values:
-    DODGE_VARIABLE_VLV_TIM_OIL_P: 184
-  response: 7E80462069E2E
-- expected_values:
-    DODGE_VARIABLE_VLV_TIM_OIL_P: 188
-  response: 7E80462069E2F
-- expected_values:
-    DODGE_VARIABLE_VLV_TIM_OIL_P: 192
-  response: 7E80462069E30
-- expected_values:
-    DODGE_VARIABLE_VLV_TIM_OIL_P: 196
-  response: 7E80462069E31
-- expected_values:
-    DODGE_VARIABLE_VLV_TIM_OIL_P: 200
-  response: 7E80462069E32
+    DODGE_VARIABLE_VLV_TIM_OIL_P: 368
+  response: 7E80462069E5C

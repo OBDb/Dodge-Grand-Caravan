@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.2118
 test_cases:
 - expected_values:
-    DODGE_ATF_T_V_2: 85.79688
+    CARAVAN_ATF_T_V_2: 85.79688
   response: '7E8056118157384'
 - expected_values:
-    DODGE_ATF_T_V_2: 111.98438
+    CARAVAN_ATF_T_V_2: 111.98438
   response: 7E80561181BFF84
 - expected_values:
-    DODGE_ATF_T_V_2: 147.35938
+    CARAVAN_ATF_T_V_2: 147.35938
   response: 7E805611824D704
 - expected_values:
-    DODGE_ATF_T_V_2: 164.04688
+    CARAVAN_ATF_T_V_2: 164.04688
   response: '7E8056118290384'
 - expected_values:
-    DODGE_ATF_T_V_2: 1021
+    CARAVAN_ATF_T_V_2: null
   response: 7E8056118FF4084

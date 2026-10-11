@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.220236
 test_cases:
 - expected_values:
-    DODGE_INJ_CYL_3: 0
-    DODGE_INJ_WIDTH_CYL_3: 0
+    CARAVAN_INJ_WIDTH_CYL_3: 0
   response: '7E80762023600000000'
 - expected_values:
-    DODGE_INJ_CYL_3: 2296
-    DODGE_INJ_WIDTH_CYL_3: 2.296
+    CARAVAN_INJ_WIDTH_CYL_3: 2.296
   response: 7E807620236000008F8
 - expected_values:
-    DODGE_INJ_CYL_3: 9544
-    DODGE_INJ_WIDTH_CYL_3: 9.544
+    CARAVAN_INJ_WIDTH_CYL_3: 9.544
   response: '7E80762023600002548'

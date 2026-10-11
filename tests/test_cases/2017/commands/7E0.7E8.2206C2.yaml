@@ -1,21 +1,21 @@
 command_id: 7E0.7E8.2206C2
 test_cases:
 - expected_values:
-    DODGE_INT_CAM_1_OFFSET: 2.1
+    CARAVAN_INT_CAM_1_OFFSET: 2.1
   response: 7E8056206C20015
 - expected_values:
-    DODGE_INT_CAM_1_OFFSET: -1.6
+    CARAVAN_INT_CAM_1_OFFSET: -1.6
   response: 7E8056206C2FFF0
 - expected_values:
-    DODGE_INT_CAM_1_OFFSET: -0.7
+    CARAVAN_INT_CAM_1_OFFSET: -0.7
   response: 7E8056206C2FFF9
 - expected_values:
-    DODGE_INT_CAM_1_OFFSET: -1.7
+    CARAVAN_INT_CAM_1_OFFSET: -1.7
   response: |-
     7E824EE113FDE40013F
     7E8056206C2FFEF
 - expected_values:
-    DODGE_INT_CAM_1_OFFSET: -1.6
+    CARAVAN_INT_CAM_1_OFFSET: -1.6
   response: |-
     7E824EE113FDE40013F
     7E8056206C2FFF0

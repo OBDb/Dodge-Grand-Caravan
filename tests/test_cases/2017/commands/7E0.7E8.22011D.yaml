@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22011D
 test_cases:
 - expected_values:
-    DODGE_ECT: 91
+    CARAVAN_ECT: 91
   response: 7E80462011D9B
 - expected_values:
-    DODGE_ECT: 104
+    CARAVAN_ECT: 104
   response: 7E80462011DA8

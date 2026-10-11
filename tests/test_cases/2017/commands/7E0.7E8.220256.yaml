@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220256
 test_cases:
 - expected_values:
-    DODGE_FUEL_MASS_CYL_2: 0
+    CARAVAN_FUEL_MASS_CYL_2: 0
   response: '7E8056202560000'
 - expected_values:
-    DODGE_FUEL_MASS_CYL_2: 11.90625
+    CARAVAN_FUEL_MASS_CYL_2: 11.90625
   response: 7E80562025602FA
 - expected_values:
-    DODGE_FUEL_MASS_CYL_2: 37.65625
+    CARAVAN_FUEL_MASS_CYL_2: 37.65625
   response: 7E805620256096A

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22114B
 test_cases:
 - expected_values:
-    DODGE_ACCEL_PEDAL_POS: 8.23529
+    CARAVAN_ACCEL_PEDAL_POS: 8.23529
   response: 7E80462114B15
 - expected_values:
-    DODGE_ACCEL_PEDAL_POS: 31.76471
+    CARAVAN_ACCEL_PEDAL_POS: 31.76471
   response: 7E80462114B51

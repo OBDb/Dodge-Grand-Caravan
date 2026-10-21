@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22012B
 test_cases:
 - expected_values:
-    DODGE_CAT_MODEL_T: 64
+    CARAVAN_CAT_MODEL_T: 64
   response: 7E80562012B0040
 - expected_values:
-    DODGE_CAT_MODEL_T: 767
+    CARAVAN_CAT_MODEL_T: 767
   response: 7E80562012B02FF
 - expected_values:
-    DODGE_CAT_MODEL_T: 768
+    CARAVAN_CAT_MODEL_T: 768
   response: 7E80562012B0300

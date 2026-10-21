@@ -1,18 +1,14 @@
 command_id: 7E0.7E8.22B010
 test_cases:
 - expected_values:
-    DODGE_ATF_T_VAR_1: 85.98438
-    DODGE_ATF_T_VAR_3: 85.98438
+    CARAVAN_ATF_T_VAR_3: 85.98438
   response: 7E80562B010157F
 - expected_values:
-    DODGE_ATF_T_VAR_1: 103.76562
-    DODGE_ATF_T_VAR_3: 103.76562
+    CARAVAN_ATF_T_VAR_3: 103.76562
   response: 7E80562B01019F1
 - expected_values:
-    DODGE_ATF_T_VAR_1: 164.04688
-    DODGE_ATF_T_VAR_3: 164.04688
+    CARAVAN_ATF_T_VAR_3: 164.04688
   response: 7E80562B0102903
 - expected_values:
-    DODGE_ATF_T_VAR_1: 1021
-    DODGE_ATF_T_VAR_3: 1021
+    CARAVAN_ATF_T_VAR_3: null
   response: 7E80562B010FF40

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2201E2
+test_cases:
+- expected_values:
+    CARAVAN_ECM_01E2: 0
+  response: 7E8056201E20000
+- expected_values:
+    CARAVAN_ECM_01E2: 1
+  response: 7E8056201E20001
+- expected_values:
+    CARAVAN_ECM_01E2: 2
+  response: 7E8056201E20002
+- expected_values:
+    CARAVAN_ECM_01E2: 3
+  response: 7E8056201E20003

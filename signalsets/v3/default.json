@@ -22,6 +22,16 @@
     {"id": "CARAVAN_TRANS_SUMP_T_VAR_1",    "path": "Transmission", "fmt": {"bix": 80, "len": 8,  "max": 1020, "mul": 4,                        "unit": "fahrenheit" }, "name": "Transmission sump temperature, variant 1"},
     {"id": "CARAVAN_TRANS_TQ_CONV_T_VAR_1", "path": "Transmission", "fmt": {"bix": 96, "len": 16, "max": 1875, "mul": 9, "div": 320, "add": 32, "unit": "fahrenheit" }, "name": "Transmission torque converter temperature, variant 1"}
   ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "48"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+  "signals": [
+    {"id": "CARAVAN_ECM_2148_B14",    "path": "Engine", "fmt": {"bix": 112, "len": 16, "max": 65535, "unit": "scalar" }, "name": "Engine computer value at bytes 14-15, unidentified"},
+    {"id": "CARAVAN_ECM_2148_B36",    "path": "Engine", "fmt": {"bix": 288, "len": 16, "max": 65535, "unit": "scalar" }, "name": "Engine computer value at bytes 36-37, unidentified"},
+    {"id": "CARAVAN_ECM_2148_BIT383", "path": "Engine", "fmt": {"bix": 383, "len": 1,  "max": 1,     "unit": "scalar" }, "name": "Engine computer flag at bit 383, unidentified"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "4D"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+  "signals": [
+    {"id": "CARAVAN_ECM_214D_B1", "path": "Engine", "fmt": {"bix": 8, "len": 16, "max": 65535, "unit": "scalar" }, "name": "Engine computer value at bytes 1-2, unidentified"}
+  ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "A7"}, "freq": 1,
   "signals": [
     {"id": "CARAVAN_AC_HIGH_SIDE_P_7E0", "path": "Engine", "fmt": {"bix": 48, "len": 16, "max": 1191, "div": 55, "unit": "psi" }, "name": "Air conditioning high side pressure"}
@@ -40,6 +50,11 @@
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "B3"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "CARAVAN_RADIATOR_FAN_SPD", "path": "Movement", "fmt": {"bix": 80, "len": 8, "max": 132600, "mul": 520, "unit": "rpm" }, "name": "Radiator fan speed"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "B4"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+  "signals": [
+    {"id": "CARAVAN_ECM_21B4_B0",  "path": "Engine", "fmt": {           "len": 16, "max": 65535, "unit": "scalar" }, "name": "Engine computer value at bytes 0-1, unidentified"},
+    {"id": "CARAVAN_ECM_21B4_B12", "path": "Engine", "fmt": {"bix": 96, "len": 16, "max": 65535, "unit": "scalar" }, "name": "Engine computer value at bytes 12-13, unidentified"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "CA"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -122,6 +137,10 @@
     {"id": "CARAVAN_EXH_T_DN_EXH",        "path": "Engine", "fmt": {"bix": 16, "len": 16, "max": 3003.56, "min": -3549.94, "div": 10, "add": -273.14, "sign": true, "unit": "celsius" }, "name": "Exhaust temperature, downstream of exhaust manifold"},
     {"id": "CARAVAN_EXH_T_UP_EXH",        "path": "Engine", "fmt": {"bix": 32, "len": 16, "max": 3003.56, "min": -3549.94, "div": 10, "add": -273.14, "sign": true, "unit": "celsius" }, "name": "Exhaust temperature, upstream of exhaust manifold"}
   ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0198"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+  "signals": [
+    {"id": "CARAVAN_ECM_0198", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Engine computer value 0198, unidentified"}
+  ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "01A9"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "CARAVAN_KNOCK_SENS_1", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 13107, "unit": "volts" }, "name": "Knock sensor 1"}
@@ -133,6 +152,10 @@
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "01AE"}, "freq": 1,
   "signals": [
     {"id": "CARAVAN_SHORT_TERM_KNOCK", "path": "Engine", "fmt": { "len": 16, "max": 32767.5, "div": 2, "unit": "degrees" }, "name": "Short term knock retard"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "01E2"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+  "signals": [
+    {"id": "CARAVAN_ECM_01E2", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "scalar" }, "name": "Engine computer value 01E2, unidentified"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "01FF"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -230,6 +253,10 @@
   "signals": [
     {"id": "CARAVAN_INT_CAM_1_OFFSET", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "degrees" }, "name": "Intake camshaft 1 to crankshaft offset"}
   ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "06F3"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
+  "signals": [
+    {"id": "CARAVAN_FUEL_RAIL_P_06F3", "path": "Fuel", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "unknown" }, "name": "Fuel rail pressure"}
+  ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0944"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "CARAVAN_BRAKE_BOOSTER_P", "path": "Control", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "kilopascal" }, "name": "Brake booster pressure"}
@@ -246,6 +273,14 @@
   "signals": [
     {"id": "CARAVAN_THROTTLE_INLET_P", "path": "Engine", "fmt": { "len": 16, "max": 409.5937, "div": 160, "unit": "kilopascal" }, "name": "Throttle inlet pressure"}
   ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1250"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+  "signals": [
+    {"id": "CARAVAN_ECM_1250", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Engine computer value 1250, unidentified"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "12C9"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+  "signals": [
+    {"id": "CARAVAN_ECM_12C9", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Engine computer value 12C9, unidentified"}
+  ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "14B1"}, "freq": 5,
   "signals": [
     {"id": "CARAVAN_THROTTLE_INLET_AIR_T", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Throttle inlet air temperature filtered"}
@@ -253,6 +288,10 @@
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "14B3"}, "freq": 5,
   "signals": [
     {"id": "CARAVAN_THROTTLE_INLET_AIR_T_RAW", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Throttle inlet air temperature raw"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "15D4"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+  "signals": [
+    {"id": "CARAVAN_ECM_15D4", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Engine computer value 15D4, unidentified"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1737"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [

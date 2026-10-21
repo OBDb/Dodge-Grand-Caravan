@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220198
+test_cases:
+- expected_values:
+    CARAVAN_ECM_0198: 0
+  response: '7E8056201980000'
+- expected_values:
+    CARAVAN_ECM_0198: 2
+  response: '7E8056201980002'
+- expected_values:
+    CARAVAN_ECM_0198: 18
+  response: '7E8056201980012'
+- expected_values:
+    CARAVAN_ECM_0198: 8194
+  response: '7E8056201982002'
+- expected_values:
+    CARAVAN_ECM_0198: 8210
+  response: '7E8056201982012'

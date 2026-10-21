@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2212C9
+test_cases:
+- expected_values:
+    CARAVAN_ECM_12C9: 0
+  response: 7E8046212C900

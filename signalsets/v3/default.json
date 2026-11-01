@@ -1,4 +1,7 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" }
+  ],
+  "commands": [
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "17"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "CARAVAN_LINE_P_DUTY", "path": "Engine", "fmt": {           "len": 16, "max": 100, "div": 655, "unit": "percent" }, "name": "Line pressure duty cycle"},
